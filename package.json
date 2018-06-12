@@ -1,0 +1,15 @@
+{
+  "name": "simple-timer",
+  "version": "1.0.0",
+  "description": "A very simple timer running on local host to be included in your powerpoint or keynote presentations",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "com.de.fraunhofer.iese.patrick-mennig",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.16.3"
+  }
+}
